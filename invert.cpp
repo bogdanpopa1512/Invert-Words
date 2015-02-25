@@ -48,7 +48,6 @@ int main()
     cout << "+ --------------------------------------------------------- +" << endl;
     cout << "| This program inverts every word within a sentence without |" << endl;
     cout << "| using any additional strings or characters.               |" << endl;
-    cout << "| Why?...Just an interview question.                        |" << endl;
     cout << "+ --------------------------------------------------------- +" << endl;
 
     cout << "\nInput  : ";
